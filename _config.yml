@@ -145,6 +145,8 @@ defaults:
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
       permalink: /posts/:title/
+      # math: true      # For website performance reasons, the mathematical
+      # feature won’t be loaded by default.
   - scope:
       path: _drafts
     values:

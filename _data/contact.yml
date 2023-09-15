@@ -10,7 +10,7 @@
 
 - type: unsplash
   icon: "fa-brands fa-unsplash"
-  url: "https://unsplash.com/ko/@hansol_shin"
+  url: "https://unsplash.com/@hansol_shin"
 
 - type: email
   icon: "fas fa-envelope"
