@@ -10,39 +10,41 @@ baseurl: ""
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: ko
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: The blog # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 🦆😘 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Hello world!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+# url: "https://handol-shin.github.io"
+url: "http://127.0.0.1:4000"
 
-github:
-  username: github_username # change to your github username
+# github:
+#   username: Hansol-S # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# instagram:
+#   username: handol.shin # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Hansol Shin
+  email: litol.han@me.com # change to your email address
   links:
+      - https://Hansol-S.github.io/
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # - https://twitter.com/username # change to your twitter homepage
+    # - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
